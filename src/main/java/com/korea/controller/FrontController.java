@@ -40,7 +40,7 @@ public class FrontController extends HttpServlet{
 		if(sub!=null)
 			sub.execute(req, resp);
 		
-		//수정중
+		//수정중ㄹ
 	
 	}
 }
